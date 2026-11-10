@@ -1,0 +1,9 @@
+   .idea/
+   *.iml
+   out/
+   *.class
+   *.aux
+   *.log
+   *.toc
+   *.out
+   *.synctex.gz
